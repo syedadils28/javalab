@@ -4,7 +4,7 @@ This repository contains materials and notes for the second semester at JNNCE.
 
 ## Overview
 
-- Course: Semester  2
+- Course: Semester 2
 - Institution: JNNCE
 - Contents: lecture notes, assignments, lab work, and project references
 
