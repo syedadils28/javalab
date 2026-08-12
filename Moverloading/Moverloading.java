@@ -20,6 +20,10 @@ class Prog {
         return a + b;
     }
 
+    String add(String a, String b) {
+        return a + b;
+    }
+
 }
 
 class Moverloading {
@@ -32,5 +36,8 @@ class Moverloading {
 
         double res1 = obj1.add(12.5, 42.5);
         System.out.println("addtion using double: " + res1);
+
+        String res2 = obj1.add("Hello ", "World");
+        System.out.println("addtion using String: " + res2);
     }
 }
