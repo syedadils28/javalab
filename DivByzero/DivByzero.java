@@ -8,7 +8,8 @@ public class DivByzero {
             int a = 5, b = 0;
             System.out.println("Quotient is : " + (a / b));
         } catch (Exception e) {
-            System.out.println("Number cannot be divided by zero ");
+            System.out.println("Number cannot be divided by zero " + e.getMessage());
+
         }
     }
 }
