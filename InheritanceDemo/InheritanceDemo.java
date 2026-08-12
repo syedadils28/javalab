@@ -4,7 +4,7 @@ calculate the area of a rectangle and triangle.
  */
 
 interface rectangle {
-    void Area_rectangle(double b, double h);
+    void Area_rectangle(double w, double h);
 
 }
 
